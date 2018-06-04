@@ -1,0 +1,24 @@
+body{
+	padding:70px;
+}
+.container-fluid{
+	width:95%;
+}
+.content .carousel-inner img{
+	width:100%;
+	height:300px;
+}
+.new-news {
+	border-left: 1px solid #dadada;
+	height: 400px;
+	overflow: overlay;
+}
+.title{
+	margin-top:0;
+}
+.continues-post{
+	padding-top:30px;
+}
+.menu{
+	margin-top:15px;
+}
